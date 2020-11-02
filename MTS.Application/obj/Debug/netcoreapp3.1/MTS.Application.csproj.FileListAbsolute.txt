@@ -1,0 +1,14 @@
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\bin\Debug\netcoreapp3.1\MTS.Application.deps.json
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\bin\Debug\netcoreapp3.1\MTS.Application.dll
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.AssemblyInfoInputs.cache
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.AssemblyInfo.cs
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.csprojAssemblyReference.cache
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\bin\Debug\netcoreapp3.1\MTS.Application.pdb
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.dll
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.pdb
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\bin\Debug\netcoreapp3.1\MTS.Domain.dll
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\bin\Debug\netcoreapp3.1\MTS.Persistence.dll
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\bin\Debug\netcoreapp3.1\MTS.Persistence.pdb
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\bin\Debug\netcoreapp3.1\MTS.Domain.pdb
+C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.csproj.CopyComplete
