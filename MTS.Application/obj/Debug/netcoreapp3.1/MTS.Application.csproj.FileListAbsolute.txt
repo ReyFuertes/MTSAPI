@@ -22,7 +22,7 @@ C:\Users\Jerson\source\repos\MTSAPI\MTS.Application\bin\Debug\netcoreapp3.1\MTS.
 C:\Users\Jerson\source\repos\MTSAPI\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.csprojAssemblyReference.cache
 C:\Users\Jerson\source\repos\MTSAPI\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.AssemblyInfoInputs.cache
 C:\Users\Jerson\source\repos\MTSAPI\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.AssemblyInfo.cs
-C:\Users\Jerson\source\repos\MTSAPI\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.csproj.CoreCompileInputs.cache
 C:\Users\Jerson\source\repos\MTSAPI\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.csproj.CopyComplete
 C:\Users\Jerson\source\repos\MTSAPI\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.dll
 C:\Users\Jerson\source\repos\MTSAPI\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.pdb
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Application\obj\Debug\netcoreapp3.1\MTS.Application.csproj.CoreCompileInputs.cache

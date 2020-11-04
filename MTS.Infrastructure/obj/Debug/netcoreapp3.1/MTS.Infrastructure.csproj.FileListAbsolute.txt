@@ -1,0 +1,16 @@
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\bin\Debug\netcoreapp3.1\MTS.Infrastructure.deps.json
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\bin\Debug\netcoreapp3.1\MTS.Infrastructure.dll
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\bin\Debug\netcoreapp3.1\MTS.Infrastructure.pdb
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\bin\Debug\netcoreapp3.1\MTS.Application.dll
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\bin\Debug\netcoreapp3.1\MTS.Domain.dll
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\bin\Debug\netcoreapp3.1\MTS.Persistence.dll
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\bin\Debug\netcoreapp3.1\MTS.Application.pdb
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\bin\Debug\netcoreapp3.1\MTS.Domain.pdb
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\bin\Debug\netcoreapp3.1\MTS.Persistence.pdb
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\obj\Debug\netcoreapp3.1\MTS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\obj\Debug\netcoreapp3.1\MTS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\obj\Debug\netcoreapp3.1\MTS.Infrastructure.AssemblyInfo.cs
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\obj\Debug\netcoreapp3.1\MTS.Infrastructure.csproj.CopyComplete
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\obj\Debug\netcoreapp3.1\MTS.Infrastructure.dll
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\obj\Debug\netcoreapp3.1\MTS.Infrastructure.pdb
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Infrastructure\obj\Debug\netcoreapp3.1\MTS.Infrastructure.csproj.CoreCompileInputs.cache

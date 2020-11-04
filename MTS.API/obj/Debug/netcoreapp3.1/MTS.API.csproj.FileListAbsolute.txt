@@ -148,3 +148,5 @@ C:\Users\Jerson\source\repos\MTSAPI\MTS.API\obj\Debug\netcoreapp3.1\staticwebass
 C:\Users\Jerson\source\repos\MTSAPI\MTS.API\obj\Debug\netcoreapp3.1\MTS.API.dll
 C:\Users\Jerson\source\repos\MTSAPI\MTS.API\obj\Debug\netcoreapp3.1\MTS.API.pdb
 C:\Users\Jerson\source\repos\MTSAPI\MTS.API\obj\Debug\netcoreapp3.1\MTS.API.genruntimeconfig.cache
+C:\Users\Jerson\source\repos\MTSAPI\MTS.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Jerson\source\repos\MTSAPI\MTS.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll

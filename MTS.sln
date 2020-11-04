@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTS.Domain", "MTS.Domain\MT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTS.Persistence", "MTS.Persistence\MTS.Persistence.csproj", "{16FB7424-F007-467A-A7C2-69F72A6F444D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTS.Application", "MTS.Application\MTS.Application.csproj", "{4F976A06-41F1-4643-86CE-D92BE9778DA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTS.Application", "MTS.Application\MTS.Application.csproj", "{4F976A06-41F1-4643-86CE-D92BE9778DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTS.Infrastructure", "MTS.Infrastructure\MTS.Infrastructure.csproj", "{0A6E7C07-5E81-4EF4-A473-6C3EA94F50AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4F976A06-41F1-4643-86CE-D92BE9778DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F976A06-41F1-4643-86CE-D92BE9778DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F976A06-41F1-4643-86CE-D92BE9778DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6E7C07-5E81-4EF4-A473-6C3EA94F50AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6E7C07-5E81-4EF4-A473-6C3EA94F50AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6E7C07-5E81-4EF4-A473-6C3EA94F50AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6E7C07-5E81-4EF4-A473-6C3EA94F50AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
