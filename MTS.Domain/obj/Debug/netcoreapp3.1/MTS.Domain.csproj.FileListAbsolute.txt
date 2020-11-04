@@ -7,3 +7,12 @@ C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Domain\obj\D
 C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Domain\obj\Debug\netcoreapp3.1\MTS.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Domain\obj\Debug\netcoreapp3.1\MTS.Domain.dll
 C:\Users\Jerson\Documents\MY FILES\From Rey Fuertes Project\MTS\MTS.Domain\obj\Debug\netcoreapp3.1\MTS.Domain.pdb
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Domain\bin\Debug\netcoreapp3.1\MTS.Domain.deps.json
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Domain\bin\Debug\netcoreapp3.1\MTS.Domain.dll
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Domain\bin\Debug\netcoreapp3.1\MTS.Domain.pdb
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Domain\obj\Debug\netcoreapp3.1\MTS.Domain.csprojAssemblyReference.cache
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Domain\obj\Debug\netcoreapp3.1\MTS.Domain.AssemblyInfoInputs.cache
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Domain\obj\Debug\netcoreapp3.1\MTS.Domain.AssemblyInfo.cs
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Domain\obj\Debug\netcoreapp3.1\MTS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Domain\obj\Debug\netcoreapp3.1\MTS.Domain.dll
+C:\Users\Jerson\source\repos\MTSAPI\MTS.Domain\obj\Debug\netcoreapp3.1\MTS.Domain.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AiquBwfjf0vLBX3gaLCaiMB/6ahpYyDeQZ6uI9gd2UOmZ6qCGUwMrW3fGQbIYubqEo8p/rZd8p3gUozLsbdMUw==",
+  "dgSpecHash": "TocdAY1TTCv8UvVjIO+wJsd3CTmaPdNOyyNgFexa8xPNUdXCpxReU0/vTbVFNH+cqaTg/86qyOUrwjrw/L6ETw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Persistence\\MTS.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Persistence\\MTS.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jerson\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Jerson\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

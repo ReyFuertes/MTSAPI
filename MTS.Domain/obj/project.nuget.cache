@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zdZq3FY4b4gYeu0RA3NwlxQxF/DbYK2w4+QPheApqd5t/1NXoVBty5M+gRrpeyNMWGaXyxU2YE4e8e8eZ0ewgA==",
+  "dgSpecHash": "8VtQHbvwQ7PWSpfP+CLRjrUGJUtPSy55iV3Xg+IHsJYoEyUYtFiJdFM11UlQXdfabLZ1ZVOvMUmeS9yq3z1yzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Domain\\MTS.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Domain\\MTS.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

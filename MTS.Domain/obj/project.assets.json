@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Domain\\MTS.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Domain\\MTS.Domain.csproj",
       "projectName": "MTS.Domain",
-      "projectPath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Domain\\MTS.Domain.csproj",
+      "projectPath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Domain\\MTS.Domain.csproj",
       "packagesPath": "C:\\Users\\Jerson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

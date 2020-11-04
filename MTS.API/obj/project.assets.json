@@ -5937,11 +5937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.API\\MTS.API.csproj",
+      "projectUniqueName": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.API\\MTS.API.csproj",
       "projectName": "MTS.API",
-      "projectPath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.API\\MTS.API.csproj",
+      "projectPath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.API\\MTS.API.csproj",
       "packagesPath": "C:\\Users\\Jerson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.API\\obj\\",
+      "outputPath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5960,11 +5960,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Application\\MTS.Application.csproj": {
-              "projectPath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Application\\MTS.Application.csproj"
+            "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Application\\MTS.Application.csproj": {
+              "projectPath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Application\\MTS.Application.csproj"
             },
-            "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Persistence\\MTS.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Persistence\\MTS.Persistence.csproj"
+            "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Persistence\\MTS.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Persistence\\MTS.Persistence.csproj"
             }
           }
         }

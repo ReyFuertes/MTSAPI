@@ -5698,11 +5698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Persistence\\MTS.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Persistence\\MTS.Persistence.csproj",
       "projectName": "MTS.Persistence",
-      "projectPath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Persistence\\MTS.Persistence.csproj",
+      "projectPath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Persistence\\MTS.Persistence.csproj",
       "packagesPath": "C:\\Users\\Jerson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5721,8 +5721,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Domain\\MTS.Domain.csproj": {
-              "projectPath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Domain\\MTS.Domain.csproj"
+            "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Domain\\MTS.Domain.csproj": {
+              "projectPath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Domain\\MTS.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w4FZWbkzVnki8qCLFuXlKbuUo2HR657YZbLP44t55mq5i/7ZK51NDbN7fW0fVnbxhKOdhjYEP7gMTLSHMkJa4Q==",
+  "dgSpecHash": "iHwuplWMsE3/8fR2odLtAtTTcMb3ebvtuABl6yQGdciKejXrdPKgf90WwGaAK1prMQtoJfBKgQ4AptLFDRttrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jerson\\Documents\\MY FILES\\From Rey Fuertes Project\\MTS\\MTS.Application\\MTS.Application.csproj",
+  "projectFilePath": "C:\\Users\\Jerson\\source\\repos\\MTSAPI\\MTS.Application\\MTS.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jerson\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Jerson\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
