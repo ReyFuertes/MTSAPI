@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using MTS.Application.Common.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,9 +10,18 @@ namespace MTS.Application.Requests.Images.Commands
 {
     public class UploadImageCommandHandler : IRequestHandler<UploadImageCommand, string>
     {
-        public Task<string> Handle(UploadImageCommand request, CancellationToken cancellationToken)
+        private readonly IFileManager _fileManager;
+
+        public UploadImageCommandHandler(IFileManager fileManager)
         {
-            throw new NotImplementedException();
+            _fileManager = fileManager;
+        }
+
+        public async Task<string> Handle(UploadImageCommand request, CancellationToken cancellationToken)
+        {
+            var response = await _fileManager.UploadFileAsync(request.File, cancellationToken);
+
+            return response;
         }
     }
 }

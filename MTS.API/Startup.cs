@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MTS.Application;
+using MTS.Application.Common.Interfaces;
+using MTS.Infrastructure;
 using MTS.Persistence;
 
 namespace MTS.API
@@ -29,8 +31,9 @@ namespace MTS.API
 
             services.AddPersistenceLayer(Configuration);
 
-            //services.AddDbContext<MTSDbContext>(opt =>
-            //   opt.UseSqlServer(Configuration.GetConnectionString("MTSDatabase")));
+            services.AddInfrastructureLayer(Configuration);
+
+            services.AddScoped<IFileManager, FileManagerService>();
 
             services.AddControllers();
 

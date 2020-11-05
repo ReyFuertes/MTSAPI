@@ -15,8 +15,4 @@
     <ProjectReference Include="..\MTS.Persistence\MTS.Persistence.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Requests\Images\Queries\" />
-  </ItemGroup>
-
 </Project>

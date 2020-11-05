@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MTS.Application\MTS.Application.csproj" />
+    <ProjectReference Include="..\MTS.Infrastructure\MTS.Infrastructure.csproj" />
     <ProjectReference Include="..\MTS.Persistence\MTS.Persistence.csproj" />
   </ItemGroup>
 
